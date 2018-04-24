@@ -1,0 +1,19 @@
+{
+  "name": "server-http-with-restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoBrunoBR/server-http-with-restify.git"
+  },
+  "author": "Marco Bruno",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MarcoBrunoBR/server-http-with-restify/issues"
+  },
+  "homepage": "https://github.com/MarcoBrunoBR/server-http-with-restify#readme"
+}
